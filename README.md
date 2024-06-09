@@ -5,6 +5,7 @@
 
 I'm an engineer focused in Data Science and Data Analytics. I studied a bootcamp at the EDEM (Business School), powered by the Bridge, in Valencia, Spain 2023-2024. 
 
+## About me in Code
 ```python
 const Eli = {
   pronouns: "she" | "her",
