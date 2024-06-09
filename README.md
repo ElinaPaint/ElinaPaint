@@ -1,5 +1,8 @@
 <h2> Hi there, I'm Eliana! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+![githubds](https://github.com/ElinaPaint/ElinaPaint/assets/125615274/f70d81f6-5f48-4f87-889e-fc6f8c9550c2)
+[source](https://www.kdnuggets.com/2022/12/learn-data-science-github-repositories.html)
+
 Data Science Bootcamp, The Bridge Digital Talent Accelerator, EDEM Business School (2023-2024).
 
 I'm an engineer focused in Data Science and Data Analytics. I studied a bootcamp at the EDEM, powered by the Bridge, in Valencia, Spain 2023-2024. 
