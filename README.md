@@ -21,9 +21,9 @@ Data Science Bootcamp, The Bridge Digital Talent Accelerator, EDEM Business Scho
 - OpenCV
 - Deep Learning
 - Databases
-  SQL
-  PostgreSQL
-  MongoDB
+  - SQL
+  - PostgreSQL
+  - MongoDB
 - API Hosting
 - AWS
 - Docker
