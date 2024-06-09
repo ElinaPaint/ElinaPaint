@@ -8,13 +8,13 @@ Data Science Bootcamp, The Bridge Digital Talent Accelerator, EDEM Business Scho
 - Data Analysis
 - Web Scraping
 - Exploratory Analysis
-  Cleaning Data
-  Data Transformation
-  Statistical Analysis
-  Data Visualization
-  PowerBI
-  Seaborn
-  Matplotlib
+  - Cleaning Data
+  - Data Transformation
+  - Statistical Analysis
+  - Data Visualization
+  - PowerBI
+  - Seaborn
+  - Matplotlib
 - Machine Learning
 - Scikit-Learn
 - Tensorflow/Keras
